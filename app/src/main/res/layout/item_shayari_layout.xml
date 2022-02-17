@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_shayari"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="@dimen/margin_x_small"
+    android:gravity="center"
+    android:padding="@dimen/padding_medium"
+    android:background="@drawable/bg1">
+    <TextView
+        android:id="@+id/tv_shayari_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="मुस्कुराहट तुम्हीं से मिलती है,
+    दर्द को राहत तुम्हीं से मिलती है,
+    रूठना कभी मत हमसे ए दोस्त,
+    हमें जीने की चाहत आपसे ही मिलती है!"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_large"
+        />
+</LinearLayout>

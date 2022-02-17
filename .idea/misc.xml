@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable-v24/bg2.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable-v24/bg3.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable-v24/bg4.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable-v24/bg5.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/background.xml" value="0.2" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/bg1.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/btn_bg.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/circle_bg.xml" value="0.14" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/exit_dialog.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/exit_dialog_bg.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/ic_hand.xml" value="0.14" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/ic_hand4.xml" value="0.23697916666666666" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/drawable/icon_bg.xml" value="0.14" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/activity_all_categories.xml" value="0.1" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/activity_individual_shayari.xml" value="0.16" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/activity_shayari.xml" value="0.20512820512820512" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/exit_dialog.xml" value="0.21666666666666667" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/item_category_layout.xml" value="0.21666666666666667" />
+        <entry key="..\:/internship_tasks/ShayariApp/app/src/main/res/layout/item_shayari_layout.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

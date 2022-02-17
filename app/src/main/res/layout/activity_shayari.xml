@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".ShayariActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_shayari"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/fl_btn"
+        tools:listitem="@layout/item_shayari_layout"/>
+    <FrameLayout
+        android:id="@+id/fl_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_bg"
+            android:text="Show another 20 Shayari"
+            android:textColor="@color/white"
+            android:layout_margin="15dp"
+            />
+    </FrameLayout>
+
+</RelativeLayout>
